@@ -91,6 +91,14 @@ The tool generates a Markdown report (`security_report.md` by default) containin
 5. **References** — threat intelligence feeds used
 6. **Conclusion** — summary and next steps
 
+## Some content from security_report.md
+<img width="1042" height="641" alt="image" src="https://github.com/user-attachments/assets/4805dd35-a652-46eb-90af-b2e529de7727" />
+<img width="1046" height="570" alt="image" src="https://github.com/user-attachments/assets/31f22c04-db55-480b-b3e9-3ffe19c34e34" />
+<img width="1083" height="689" alt="image" src="https://github.com/user-attachments/assets/91f7bf1e-6254-454d-ae5d-d138ee57426e" />
+<img width="1070" height="524" alt="image" src="https://github.com/user-attachments/assets/72180c57-cba9-4fc7-9ac5-b30ed40f57c2" />
+<img width="1065" height="621" alt="image" src="https://github.com/user-attachments/assets/1c466d46-4ebc-4378-9780-f1aed1cc1664" />
+<img width="1063" height="328" alt="image" src="https://github.com/user-attachments/assets/3a247dad-6be1-481f-8575-f75bc2dfb6bf" />
+
 ## Project Structure
 
 ```
