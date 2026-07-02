@@ -19,10 +19,15 @@ A Python security analysis tool that extracts and analyzes PCAP network traffic,
 - `pip` (Python package manager)
 
 ## Installation
+Recommended to use a virtual environment because of pip
 
 ```bash
 # Clone or navigate to the project directory
 cd "Threat Intelligence Automation"
+
+# Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
